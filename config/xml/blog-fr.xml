@@ -1,0 +1,529 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Blog FR</title>
+	<atom:link href="http://www.prestashop.com/blog/fr/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.prestashop.com/blog/fr</link>
+	<description></description>
+	<lastBuildDate>Thu, 19 Jun 2014 08:25:58 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.4</generator>
+		<item>
+		<title>3 conseils pour lancer une campagne e-mailing efficace</title>
+		<link>http://www.prestashop.com/blog/fr/3-conseils-pour-lancer-une-campagne-e-mailing-efficace/</link>
+		<comments>http://www.prestashop.com/blog/fr/3-conseils-pour-lancer-une-campagne-e-mailing-efficace/#comments</comments>
+		<pubDate>Thu, 19 Jun 2014 08:25:58 +0000</pubDate>
+		<dc:creator>Camille Sila</dc:creator>
+				<category><![CDATA[Partenaires PrestaShop]]></category>
+
+		<guid isPermaLink="false">http://www.prestashop.com/blog/fr/?p=16471</guid>
+		<description><![CDATA[L’e-mail marketing s’impose comme un canal d’échange privilégié entre la marque et ses clients. Qu’il s’agisse d’un mail promotionnel, de bienvenue ou d’une newsletter, il est le moyen de communication incontournable pour tout e-commerçant souhaitant fidéliser sa clientèle et augmenter &#8230; <a href="http://www.prestashop.com/blog/fr/3-conseils-pour-lancer-une-campagne-e-mailing-efficace/" rel="nofollow" class="more-link">Suivant <span class="meta-nav">&#8594;</span></a>]]></description>
+			<content:encoded><![CDATA[<p dir="ltr">L’e-mail marketing s’impose comme un canal d’échange privilégié entre la marque et ses clients. Qu’il s’agisse d’un mail promotionnel, de bienvenue ou d’une newsletter, <strong>il est le moyen de communication incontournable pour tout e-commerçant souhaitant fidéliser sa clientèle et augmenter son taux de conversion</strong>.</p>
+<p>Beaucoup ont saisi le potentiel de l’e-mail marketing, c’est pourquoi il est parfois difficile de se faire une place dans la boîte de réception de ses clients. Toutefois, il est possible de se démarquer du flot de mails en respectant quelques <strong>bonnes pratiques et en choisissant une solution d’envoi d’e-mails performante.</strong></p>
+<p style="text-align: center;"><img class="aligncenter  wp-image-16472" src="http://www.prestashop.com/blog/fr/files/2014/06/mailing.png" alt="" width="568" height="282" /></p>
+<p> <span id="more-16471"></span></p>
+<h4><span style="color: #ee116d;">Se constituer une base de données solide</span></h4>
+<p dir="ltr">Vous êtes convaincu des vertus que peut apporter une campagne e-mailing à votre activité mais il vous manque le principal : des adresses mail.<br />
+Pour<strong> créer une base de données solide</strong> vous pouvez mettre en place les actions suivantes :</p>
+<ul>
+<ul>
+<li>Afficher <strong>lors de la commande une case à cocher</strong> pour s’inscrire à la newsletter</li>
+<li>Afficher une <strong>pop in sur votre page d’accueil</strong> offrant une remise pour toute inscription</li>
+<li>Inciter à l’inscription via les <strong>réseaux sociaux</strong></li>
+<li>Faire un <strong>jeu concours</strong></li>
+<li>Certains peuvent même récupérer des adresses mail sur un <strong>canal offline</strong> (salons, magasins physiques…)</li>
+</ul>
+</ul>
+<p>Prenez bien soin d’obtenir le consentement du destinataire pour agir en toute légalité.</p>
+<p>Et pour ceux qui ont déjà une base de données, <strong>assurez-vous qu’elle ne soit pas trop dépassée en jetant un œil à votre taux d’ouverture</strong>. Si le taux d’ouverture moyen diffère par secteur, des études montrent qu’il varie en moyenne de 15 à 28 %.</p>
+<h4 dir="ltr"><span style="color: #ee116d;">Faire des tests et analyser ses performances</span></h4>
+<p>Le succès d’une campagne e-mailing est conditionné par plusieurs éléments que vous pourrez affiner avec l’expérience. Alors, <strong>analysez vos performances en observant vos taux de conversion, de clic et de désinscription.</strong>Faites ensuite des tests sur les éléments suivants et ajustez-les selon les résultats obtenus.</p>
+<ul>
+<ul>
+<li><strong>L’heure et le jour d’envoi</strong> : en général, préférez le milieu de semaine (mardi ou jeudi)</li>
+<li><strong>L’objet</strong> : faites court, impactant et surtout évitez les termes qu’utilisent les spameurs (gagnez, gratuit, promo…)</li>
+<li><strong>Contenu</strong> : proposez un contenu présentant une valeur ajoutée pour vos clients avec des boutons d’action bien visibles incitant au clic.</li>
+</ul>
+</ul>
+<h4 dir="ltr"><span style="color: #ee116d;">Choisir un service d’e-mailing performant</span></h4>
+<p dir="ltr">Le choix de votre solution d’envoi d’e-mails est aussi important que votre e-mail en lui-même. Pour vous aider dans ce choix primordial, PrestaShop  s’est associé à une plateforme simple et puissante qui saura vous accompagner dans la réussite de <strong>vos campagnes marketing, e-mails transactionnels et même SMS : SendinBlue</strong>.</p>
+<p style="text-align: center;" dir="ltr"><img class="aligncenter" src="http://www.prestashop.com/blog/fr/files/2014/06/logo-sendinblue-300x77.png" alt="" width="300" height="77" /></p>
+<p dir="ltr">Avec SendinBlue, vous <strong>créez, envoyez et analysez vos campagnes facilement</strong>. Vous bénéficiez également d’une <strong>délivrabilité optimisée, de prix intéressants et d’un support technique par téléphone ou par mail</strong>.</p>
+<p dir="ltr">Que vous soyez novice ou expert, SendinBlue s’adapte à vos besoins et vous propose de nombreuses fonctionnalités intuitives, parmi elles :</p>
+<ul>
+<ul>
+<li>Segmentation de vos contacts.</li>
+<li>Outils de création d’email</li>
+<li>Gestion de vos templates d’emails transactionnels.</li>
+<li>Des rapports de campagne complets.</li>
+<li>IP dédiée pour un meilleur contrôle de votre réputation.</li>
+</ul>
+</ul>
+<div>
+<p dir="ltr"><a href="http://addons.prestashop.com/fr/publicite-marketing-newsletter-modules/8300-mailin.html" target="_blank">Téléchargez gratuitement le module SendinBlue</a> et lancez des campagnes mailing efficaces.</p>
+<p dir="ltr">A vous de jouer !</p>
+</div>
+]]></content:encoded>
+			<wfw:commentRss>http://www.prestashop.com/blog/fr/3-conseils-pour-lancer-une-campagne-e-mailing-efficace/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Rencontrez PrestaShop au Salon Shake your e-commerce à Marseille !</title>
+		<link>http://www.prestashop.com/blog/fr/rencontrez-prestashop-au-salon-shake-your-e-commerce-a-marseille/</link>
+		<comments>http://www.prestashop.com/blog/fr/rencontrez-prestashop-au-salon-shake-your-e-commerce-a-marseille/#comments</comments>
+		<pubDate>Wed, 18 Jun 2014 15:10:15 +0000</pubDate>
+		<dc:creator>Camille Sila</dc:creator>
+				<category><![CDATA[Evènements]]></category>
+
+		<guid isPermaLink="false">http://www.prestashop.com/blog/fr/?p=16453</guid>
+		<description><![CDATA[Que faites-vous le 24 juin prochain ? Ne manquez pas l’occasion de booster votre activité en participant au salon Shake. Plus de 500 professionnels sont attendus lors de cet évènement e-commerce d’ampleur internationale. De 9h00 à 18h30 se tiendront plus de &#8230; <a href="http://www.prestashop.com/blog/fr/rencontrez-prestashop-au-salon-shake-your-e-commerce-a-marseille/" rel="nofollow" class="more-link">Suivant <span class="meta-nav">&#8594;</span></a>]]></description>
+			<content:encoded><![CDATA[<p>Que faites-vous le 24 juin prochain ? Ne manquez pas l’occasion de <strong>booster votre activité en participant au salon Shake</strong>. Plus de <strong>500 professionnels</strong> sont attendus lors de cet évènement e-commerce d’ampleur internationale. De 9h00 à 18h30 se tiendront plus de <strong>40 conférences</strong> animées par <strong>60 intervenants experts</strong> autour de thématiques variées telles que : le coût d’un site e-commerce, le cross-canal, la logistique, les places de marché…</p>
+<p style="text-align: center;"><img class="aligncenter" src="http://www.prestashop.com/blog/fr/files/2014/06/300x250-STATIC.jpg" alt="" width="300" height="250" /></p>
+<p><span id="more-16453"></span></p>
+<h4><span style="color: #99cc00;">Une journée chargée d’enseignements vous attend !</span></h4>
+<p>Commencez par vous balader dans les différentes salles du Palais du Pharo et rencontrez au détour d’un stand des professionnels du e-commerce, parmi lesquels, <strong>l’équipe PrestaShop qui sera ravie d’échanger avec vous salle Joliette</strong>. Ensuite, participez aux <strong>conférences, tables rondes et ateliers</strong> qui auront lieu toute la journée pour vous informer ou vous perfectionner. PrestaShop animera les conférences suivantes :</p>
+<ul>
+<li>Le TOP 10 des KPIs pour maximiser les ventes de votre site e-commerce</li>
+<li>Au fait, ça coûte combien un site e-commerce ?</li>
+<li>Plateformes e-commerce, quel avenir ? Pour le mobile, les extensions de catalogues, le web to store…</li>
+</ul>
+<p>Enfin, Shake organise les Trophées Marius, qui récompenseront le meilleur projet Web-to-Store et le meilleur site e-commerce provençal. Plus de <strong>10 000 euros de prestations seront offertes aux 2 gagnants </strong>! Assistez à la remise des trophées lors de la conférence plénière de clôture de Shake.</p>
+<p><a href="https://shake14.eventbrite.fr/?utm_source=PrestaShop&amp;utm_medium=blog&amp;utm_campaign=PrestaShop" target="_blank">Inscrivez-vous maintenant</a> pour participer au salon Shake et bénéficiez d’une <strong>remise exceptionnelle de 30% </strong>sur votre inscription grâce au code <span style="color: #ee117f;"><strong>PRESTA30OFF</strong></span>.<strong> </strong></p>
+<p>Rendez-vous le 24 juin !</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.prestashop.com/blog/fr/rencontrez-prestashop-au-salon-shake-your-e-commerce-a-marseille/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>10 choses que vous aimeriez savoir avant d’ouvrir votre boutique en ligne</title>
+		<link>http://www.prestashop.com/blog/fr/10-choses-que-vous-auriez-aime-savoir-avant-douvrir-votre-boutique-en-ligne/</link>
+		<comments>http://www.prestashop.com/blog/fr/10-choses-que-vous-auriez-aime-savoir-avant-douvrir-votre-boutique-en-ligne/#comments</comments>
+		<pubDate>Thu, 12 Jun 2014 13:20:41 +0000</pubDate>
+		<dc:creator>Tiphaine Martin-Richon</dc:creator>
+				<category><![CDATA[Conseils E-commerce]]></category>
+
+		<guid isPermaLink="false">http://www.prestashop.com/blog/fr/?p=16405</guid>
+		<description><![CDATA[Vos produits sont prêts à être vendus et votre site est complètement fonctionnel. Etes-vous sûr de ne rien oublier avant d’ouvrir votre boutique en ligne ? Nous avons mené pour vous une enquête auprès de nombreux marchands afin de dénicher &#8230; <a href="http://www.prestashop.com/blog/fr/10-choses-que-vous-auriez-aime-savoir-avant-douvrir-votre-boutique-en-ligne/" rel="nofollow" class="more-link">Suivant <span class="meta-nav">&#8594;</span></a>]]></description>
+			<content:encoded><![CDATA[<p>Vos produits sont prêts à être vendus et votre site est complètement fonctionnel. Etes-vous sûr de ne rien oublier avant d’ouvrir votre boutique en ligne ? Nous avons mené pour vous une enquête auprès de nombreux marchands afin de dénicher les erreurs qu’ils ont commises afin qu&#8217;elles ne se reproduisent plus.</p>
+<p>Bénéficiez de l’expérience de marchands chevronnés qui vous font part aujourd’hui des 10 choses qu’ils auraient aimé savoir avant d’ouvrir leur boutique en ligne.</p>
+<p><img class="aligncenter size-full wp-image-16448"  src="http://www.prestashop.com/blog/fr/files/2014/06/FR-10thingsiwishiknew.jpg" alt="" width="576" height="245" /><br />
+<span id="more-16405"></span></p>
+<h4 style="padding-left: 30px;"><span style="color: #ed2279;"><strong>1. Les business plans ne sont pas que pour les élèves</strong></span></h4>
+<p>Ne manquez pas cette étape indispensable ! Un bon business plan vous permet de détailler tous les éléments qui feront votre succès. Cette véritable feuille de route planifie toutes les étapes de la vie de votre entreprise, prévoit les stratégies à implémenter et vous permet de prévoir le lancement de votre site de vente en ligne. Un business plan fait surgir des questions auxquelles vous n’auriez surement jamais songé avant d&#8217;écrire ce document. Si vous voulez un coup de pouce pour la rédaction de votre business plan, suivez nos <a href="http://www.prestashop.com/blog/fr/creer-sa-boutique-en-ligne-10-etapes-pour-confectionner-son-business-plan/" target="_blank">10 étapes pour réaliser un bon business plan</a>.</p>
+<h4 style="padding-left: 30px;"><span style="color: #ed2279;"><strong>2. Connaissez votre entreprise mais connaissez celles de vos concurrents encore mieux</strong></span></h4>
+<p>Vous devez être au courant des produits et services similaires aux vôtres qui existent sur le marché. Soyez attentifs aux entreprises qui exercent la même activité que vous et faites également attention à celles qui seraient susceptibles de prendre le pas sur votre commerce. Vous devez être au courant des moindres détails sur ces entreprises, comme par exemple :</p>
+<ol>
+<ul>
+<li>Où placent-ils leurs publicités ?</li>
+<li>Comment fonctionne leur service client ?</li>
+<li>Quelles sont les fonctionnalités de leurs sites ?</li>
+<li>Comment fixent-ils les prix des produits ?</li>
+<li>Quels sont les points forts de leurs sites ? Qu’en est-il du vôtre ?</li>
+</ul>
+</ol>
+<p>Evaluez aussi les efforts marketing de vos concurrents. Un outil que nous vous recommandons est <a href="http://www.semrush.com/" target="_blank">SEM Rush</a> qui vous fournira un rapport complet sur les efforts en SEM et SEO d’une entreprise.</p>
+<h4 style="padding-left: 30px;"><span style="color: #ed2279;"><strong>3. SEO n’est pas un acronyme parmi tant d’autres</strong></span></h4>
+<p>Il est crucial de comprendre l’importance du SEO (référencement naturel) dès que vous vous lancez dans l’e-commerce. Le SEO est essentiel pour le succès de votre boutique. Prenez le temps de vous familiariser avec les meilleures pratiques avant de faire du SEO.</p>
+<p>Suivez les conseils de Google dans son <a href="http://static.googleusercontent.com/external_content/untrusted_dlcp/www.google.fr/fr/fr/intl/fr/webmasters/docs/search-engine-optimization-starter-guide-fr.pdf" target="_blank">guide d&#8217;optimisation pour les moteurs de recherche</a> afin d&#8217;améliorer votre SEO. Les marchands devraient aussi savoir que Google change souvent ses règles en ce qui concerne le référencement. Tenez vous au courant des nouveautés en utilisant <a href="https://www.google.com/webmasters/tools/home?hl=fr#utm_source=fr-wmcmsg&amp;utm_medium=wmcmsg&amp;utm_campaign=bm" target="_blank">Google Webmaster Tools</a>.</p>
+<h4 style="padding-left: 30px;"><span style="color: #ed2279;"><strong>4. La fraude est une réalité pour tout le monde</strong></span></h4>
+<p>Se mettre sur la toile, c’est s’exposer au monde entier et donc prendre le risque de faire face à des tentatives de fraude sur votre boutique en ligne. Voici quelques exemples de situations auxquelles des marchands se sont déjà confrontés :</p>
+<ol>
+<ul>
+<li>Paiement sans présence de carte</li>
+<li>Réclamation de paquets qui ne seraient pas arrivés ou que votre client aurait reçu abimés</li>
+<li>Retour d’objets déjà utilisés</li>
+<li>Intrusion de hackers qui recherchent des informations sur vos clients</li>
+</ul>
+</ol>
+<p>Méfiez-vous également des grosses commandes, de commandes multiples passées au même moment ou encore de la vente d’un article présent sur une page au trafic très bas.</p>
+<p>Gardez en tête que les barrières que vous mettez en place pour éviter les fraudes vont également être un frein à l’achat pour vos clients. Par exemple, la mise en place d’un mot de passe sécurisé – 8 caractères minimum contenant au moins une lettre, un chiffre et une majuscule – peut décourager vos clients lors du processus de paiement.</p>
+<h4 style="padding-left: 30px;"><span style="color: #ed2279;"><strong>5. Mettez-vous à la place de vos clients</strong></span></h4>
+<p>Lorsque vous prenez une décision concernant votre boutique e-commerce, vous êtes conscient de l’effet qu’elle aura sur votre activité, mais avez-vous pensé à l’impact que cela aura sur vos clients ? Pour les contenter au mieux, essayez de vous mettre à leur place afin d’anticiper leur réaction. Créez des personnages selon le profil de vos clients, donnez-leurs des noms et prenez les en compte à chaque fois que vous devez prendre une décision pour votre boutique en ligne.</p>
+<p>Pour réaliser une newsletter personnalisée, vous devez demander le plus d’informations possible à votre client. Cependant, au lieu d’en apprendre plus sur lui, cette action risque le faire partir. En effet, un client qui doit remplir une grande quantité de champs obligatoires et divulguer des informations personnelles aura tendance à abandonner son panier plutôt que partager toutes ces informations.</p>
+<p>Prenons un autre exemple, celui d’un marchand qui a voulu compenser l’augmentation des frais de livraison en retirant la livraison gratuite de son site. Comme c’est une dépense supplémentaire pour le client, le marchand s’attendait à une légère baisse dans ses ventes. Il n’avait cependant pas pensé à la baisse de la valeur du panier moyen qui s’y est ajouté. En trouvant un moyen de compenser la hausse des frais de livraison, le marchand a subi une baisse de ses recettes.</p>
+<h4 style="padding-left: 30px;"><span style="color: #ed2279;"><strong>6. Ne sous-estimez pas le pouvoir de la personnalisation</strong></span></h4>
+<p>La vente en ligne peut vous faire oublier que vos clients sont des personnes réelles. Le monde du e-commerce peut paraitre bien souvent impersonnel mais il est très facile de renverser cette tendance en apportant votre touche personnelle. C’est aussi une façon de se différencier des gros groupes tels qu’Amazon.</p>
+<p>Nous avons eu l’exemple de marchands qui ont surpris leurs clients en offrant un cadeau pour chaque commande passée. Ils ont utilisé ce cadeau non pas comme une stratégie marketing ou une tactique de vente mais comme une façon de remercier leurs clients. Ce sont des gestes simples comme celui-ci qui peuvent fidéliser votre clientèle. Investir dans une action de ce type remplace l’investissement que vous auriez dû faire pour acquérir de nouveaux clients.</p>
+<h4 style="padding-left: 30px;"><span style="color: #ed2279;"><strong>7. Soyez à l&#8217;écoute</strong></span></h4>
+<p>Ce concept est simple mais parfois très compliqué à réaliser ! Que ce soit vos clients, vos développeurs ou encore les personnes de votre équipe, vous devez prendre le temps de les écouter.<br />
+Pour votre service client, l’écoute est primordiale pour bien comprendre le problème. Si vous êtes en mesure de paraphraser ce que votre client vient de vous dire, c’est que avez su écouter. De plus, en prenant le temps de leur répondre, vous garantissez un meilleur service client et vous augmentez vos chances de fidéliser vos acheteurs.<br />
+Etre à l’écoute de votre équipe de développement vous assure de meilleures relations de travail mais surtout une accélération du processus de développement.</p>
+<p>Prendre le temps d’écouter, c’est comprendre une perspective différente et de détecter d’où une idée ou un problème provient.</p>
+<h4 style="padding-left: 30px;"><span style="color: #ed2279;"><strong>8. Travailler dans une atmosphère positive</strong></span></h4>
+<p>Votre équipe se compose de toutes les personnes qui vous ont aidé pour la mise en ligne de votre boutique – du photographe au développeur en passant par l’investisseur.<br />
+Le maillon faible de votre équipe n’est pas forcément la personne qui contribue le moins ou qui travaille le moins d’heures mais la personne qui adopte une attitude négative car elle ne croit pas en votre produit/service. Ce genre d’attitude peut affecter l’ensemble de votre équipe c’est pour cela qu’il faut prendre le temps de construire un esprit d’équipe positif pour le bien de votre entreprise.</p>
+<h4 style="padding-left: 30px;"><span style="color: #ed2279;"><strong>9. Ce qui est fait est mieux que quelque chose de parfait</strong></span></h4>
+<p>Dans le meilleur des mondes, tout devrait fonctionner comme sur des roulettes : images de qualité pour vos produits, descriptions produits sans aucunes fautes et optimisées pour le SEO et un site entièrement responsive. La réalité est souvent différente et très souvent les choses ne fonctionnent pas comme on le souhaiterait.<br />
+Il faut arriver à accepter que l’on peut faire quelque chose qui n’est pas parfait. Une description simple est mieux qu’aucune description. Privilégier des petites actions sur les réseaux sociaux ainsi que de répondre aux utilisateurs est bien mieux que se focaliser uniquement sur une seule campagne réglée au millimètre près.</p>
+<p>Prendre le temps de faire les choses bien vous permet de réaliser plus de choses et par la suite de perfectionner les éléments qui en ont besoin.</p>
+<h4 style="padding-left: 30px;"><span style="color: #ed2279;"><strong>10. S’il y a un début, il y a aussi une fin</strong></span></h4>
+<p>Vous pouvez trouver cela absurde de penser à la fin lorsque vous n’avez même pas encore commencé, mais avoir un plan de sortie est très important et doit d’ailleurs être mentionné dans votre business plan.<br />
+La chance de passer le flambeau à vos enfants, s’ils sont d’accord, est très faible. Il vous faut donc une voie de sortie. Le conseil suivant a aidé des marchands à comprendre l’intérêt d’une stratégie de sortie.</p>
+<p>Vous n’êtes pas l’entreprise, vous êtes un employé de l’entreprise et comme un employé régulier, vous souhaitez obtenir un retour sur ce que vous avez investi dans l’entreprise. Que vous choisissiez de diriger votre entreprise toute votre vie ou de la vendre à un moment donné, un plan de sortie vous permet d’avoir une vue d’ensemble de l’entreprise, de voir où vous en êtes et ainsi de faire les bons choix pour le long terme.</p>
+<p>Vous êtes parés pour vous lancer dans l&#8217;aventure du e-commerce. Si vous avez déjà une boutique en ligne, quel conseil pourriez-vous donner aux nouveaux marchands? Faites nous part de votre expérience dans les commentaires !</p>
+<p>&#8212;</p>
+<p>Vous avez toutes les cartes en main pour que votre boutique rencontre un grand succès. Si vous n&#8217;utilisez pas encore PrestaShop, jetez un oeil à notre <a href="http://www.prestashop.com/fr/demo" target="_blank">démo</a> ou <a href="http://www.prestashop.com/fr/telechargement" target="_blank">téléchargez PrestaShop</a> dès maintenant !</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.prestashop.com/blog/fr/10-choses-que-vous-auriez-aime-savoir-avant-douvrir-votre-boutique-en-ligne/feed/</wfw:commentRss>
+		<slash:comments>6</slash:comments>
+		</item>
+		<item>
+		<title>Vendre sur les marketplaces : comment centraliser votre inventaire</title>
+		<link>http://www.prestashop.com/blog/fr/vendre-sur-les-marketplaces-comment-centraliser-votre-inventaire/</link>
+		<comments>http://www.prestashop.com/blog/fr/vendre-sur-les-marketplaces-comment-centraliser-votre-inventaire/#comments</comments>
+		<pubDate>Tue, 10 Jun 2014 10:24:34 +0000</pubDate>
+		<dc:creator>Camille Sila</dc:creator>
+				<category><![CDATA[Partenaires PrestaShop]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://www.prestashop.com/blog/fr/?p=16385</guid>
+		<description><![CDATA[En quelques années seulement, les places de marché se sont développées jusqu’à s’imposer comme un acteur incontournable du commerce en ligne. Les marketplaces européennes telles que Zalando, eBay, Amazon ou encore la Redoute attirent chaque jour toujours plus d’e-commerçants à &#8230; <a href="http://www.prestashop.com/blog/fr/vendre-sur-les-marketplaces-comment-centraliser-votre-inventaire/" rel="nofollow" class="more-link">Suivant <span class="meta-nav">&#8594;</span></a>]]></description>
+			<content:encoded><![CDATA[<p>En quelques années seulement, les places de marché se sont développées jusqu’à s’imposer comme un <strong>acteur incontournable du commerce en ligne</strong>.</p>
+<p>Les marketplaces européennes telles que Zalando, eBay, Amazon ou encore la Redoute attirent chaque jour toujours plus d’e-commerçants à la recherche d’une large audience pour multiplier leurs ventes.</p>
+<p><img class="aligncenter size-full wp-image-16386" src="http://www.prestashop.com/blog/fr/files/2014/06/Image_FR.jpg" alt="" width="520" height="288" /></p>
+<p>&nbsp;</p>
+<p><span id="more-16385"></span></p>
+<h2><span style="color: #99cc00;">Pourquoi vendre sur les places de marché ?</span></h2>
+<p>Si  les marketplaces séduisent autant et prospèrent aussi rapidement, c’est parce qu’elles  reposent sur un système très bien pensé où <strong>chaque acteur peut y trouver son avantage</strong>.</p>
+<p>La principale raison qui pousse les e-commerçants à vendre sur les places de marché est sans aucun doute l’<strong>audience colossale</strong> qu’attirent chaque mois ces géants du web. A l’image d’Amazon qui comptabilise près de 237 millions de comptes clients actifs à travers le monde.</p>
+<p>Et ce n’est pas tout, les marketplaces constituent un terreau fertile pour les marchands qui bénéficient de nombreux autres avantages :</p>
+<p>-<strong>Ouverture à un marché plus large</strong> qui permet de toucher de nouveaux segments de clients, de nouvelles zones géographiques et démographiques.<br />
+-Les acheteurs évoluent dans un <strong>écosystème sécurisé</strong> connu et n’éprouveront ainsi aucune difficulté à commander chez un vendeur qu’ils ne connaissent pas.<br />
+- Les grandes places de marché <strong>assurent la sécurité des paiements et des fraudes</strong>.<br />
+- Les marketplaces telles Amazon et eBay <strong>dépensent des millions en marketing</strong> pour attirer de nouveaux clients sur leurs sites.</p>
+<p>En échange de leurs services, les marketplaces prélèvent une commission sur chaque vente. Toutefois, il faut noter que <strong>le coût d’acquisition client pour un site marchand peut-être plus élevé que la commission prélevée par l’opérateur de la place de marché.</strong></p>
+<h2><span style="color: #99cc00;">Comment centraliser vos stocks</span></h2>
+<p>Diversifier sa présence en ligne en investissant plusieurs places de marché c’est bien, mais cela peut vite s’avérer compliqué. Rapidement <strong>vous aurez besoin d’un outil pour vous aider à optimiser la gestion de vos marketplaces</strong> et en particulier la disponibilité de vos stocks. Par exemple, si un de vos produits est en rupture sur eBay vous devez savoir en temps réel s’il est disponible via un autre canal.</p>
+<p>En installant simplement un système centralisé pour synchroniser et distribuer vos stocks sur les différentes plateformes,  <strong>vous pourrez rationnaliser vos tâches, améliorer la gestion de votre inventaire et maîtriser davantage votre cycle de vente.</strong> Un seul système pour tout gérer.</p>
+<p><img class="size-full wp-image-17530 aligncenter" src="http://www.prestashop.com/blog/en/files/2014/06/Marketplaces-image.jpg" alt="" width="619" height="245" /></p>
+<h3><span style="color: #99cc00;">Neteven : logiciel et services dédiés à la gestion des marketplaces européennes</span></h3>
+<p>Avec plus de 8 ans d’expertise et de partenariats privilégiés avec les plus grandes marketplaces européennes, Neteven est devenu<strong> l’un des leaders des solutions de gestion des places de marché</strong>.</p>
+<p><img class="size-full wp-image-17529 aligncenter" src="http://www.prestashop.com/blog/en/files/2014/06/logo-neteven.jpg" alt="" width="215" height="80" /></p>
+<p>Pour vous permettre de vendre plus facilement et plus efficacement sur les places de marché européennes, un module de gestion des marketplaces a été développé pour les marchands PrestaShop.</p>
+<p>Vous <strong>bénéficierez de fonctionnalités puissantes et inédites</strong> :</p>
+<p>- Inventaire central compatible avec l’ensemble des marketplaces<br />
+- Gestion des attributs et déclinaisons<br />
+- Publication par code barre<br />
+- Création de fiches produits complètes<br />
+- Gestion automatique des stocks<br />
+- Ajustement des prix sur la concurrence<br />
+- Automatisation des étapes du cycle de vente<br />
+- Centralisation des fins de transaction<br />
+- Reporting avancé</p>
+<p>Synchronisez dès maintenant votre catalogue PrestaShop avec le module Neteven et <strong>gérez facilement votre inventaire depuis une seule interface</strong>.</p>
+<p><a href="http://addons.prestashop.com/fr/places-de-marche-affiliation-modules-prestashop/8091-neteven.html" target="_blank">Le module Neteven</a> est disponible en natif sur PrestaShop ou peut être téléchargé gratuitement sur PrestaShop Addons.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.prestashop.com/blog/fr/vendre-sur-les-marketplaces-comment-centraliser-votre-inventaire/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Acceptez les paiements dans la devise de vos clients</title>
+		<link>http://www.prestashop.com/blog/fr/acceptez-les-paiements-dans-la-devise-de-vos-clients/</link>
+		<comments>http://www.prestashop.com/blog/fr/acceptez-les-paiements-dans-la-devise-de-vos-clients/#comments</comments>
+		<pubDate>Wed, 04 Jun 2014 15:03:37 +0000</pubDate>
+		<dc:creator>Camille Sila</dc:creator>
+				<category><![CDATA[Partenaires PrestaShop]]></category>
+
+		<guid isPermaLink="false">http://www.prestashop.com/blog/fr/?p=16355</guid>
+		<description><![CDATA[Vous débutez votre activité en ligne et souhaitez élargir votre clientèle. De ce fait vous expédiez vos commandes dans le monde entier y compris dans des lieux qui vous sont inconnus. Tout ceci est vraiment passionnant mais désormais vous devez &#8230; <a href="http://www.prestashop.com/blog/fr/acceptez-les-paiements-dans-la-devise-de-vos-clients/" rel="nofollow" class="more-link">Suivant <span class="meta-nav">&#8594;</span></a>]]></description>
+			<content:encoded><![CDATA[<p>Vous débutez votre activité en ligne et souhaitez élargir votre clientèle. De ce fait vous expédiez vos commandes dans le monde entier y compris dans des lieux qui vous sont inconnus. Tout ceci est vraiment passionnant mais désormais vous devez vous familiariser avec des termes comme &#8221; localisation&#8221; et &#8220;multidevises&#8221; et surtout vous devez vous poser les bonnes questions. Savez-vous comment gérer votre clientèle internationale ? Avez-vous pensé à localiser votre activité et accepter les paiements selon les devises locales ?</p>
+<p>Aujourd&#8217;hui nous vous montrons l&#8217;intérêt de localiser votre boutique en ligne et vous présentons la meilleure solution pour proposer plusieurs devises sur votre site.</p>
+<p><img class="wp-image-16356 alignnone" title="FR - Benefits of offering your products" src="http://www.prestashop.com/blog/fr/files/2014/06/FR-Benefits-of-offering-your-products.jpg" alt="" width="580" height="248" /></p>
+<p><span id="more-16355"></span></p>
+<p>Pour mieux comprendre les enjeux d’avoir un site multidevises il convient de souligner les dangers de la limitation des paiements à une seule devise.</p>
+<h4><span style="color: #993300;">Les dangers de proposer seulement une devise</span></h4>
+<p>En obligeant vos clients à acheter dans une devise étrangère, vous les dissuadez de poursuivre leurs achats en les amenant à l&#8217;abandon total du panier et ainsi la perte de vos ventes. Selon <a href="http://www.statista.com/statistics/232285/reasons-for-online-shopping-cart-abandonment/ " target="_blank">Statista</a>, 13% des acheteurs en ligne abandonnent un site lorsque les prix sont présentés dans une devise étrangère. De plus, quand un client réalise un achat dans une autre devise que la sienne sa banque lui impose des frais de transaction ; de fait cela pénalise vos clients qui ne souhaiteront pas acheter sur votre boutique en ligne.</p>
+<h4><span style="color: #993300;">Offre Multidevises avec Authorize.Net</span></h4>
+<p>Authorize.Net est une solution de paiement multidevises reconnue (USD, GBP, EUROS, AUD, CAD, NZD). Cette solution certifiée PrestaShop saura vous accompagner dans votre internationalisation. Avec Authorize.Net et PrestaShop vous augmenterez vos ventes en permettant à vos clients de payer dans leur propre devise. Alors, pour ne plus faire fuir vos visiteurs avec les frais bancaires internationaux et la fluctuation des taux de change, <a href="http://addons.prestashop.com/fr/modules-paiement-prestashop/4154-authorizenet-aim.html" target="_blank">téléchargez le module Authorize.Net</a> sur PrestaShop Addons.</p>
+<p style="text-align: center;"><img class="aligncenter size-full wp-image-17486" src="http://www.prestashop.com/blog/en/files/2014/06/147-1.png" alt="" width="220" height="127" /></p>
+<p>En plus de proposer les paiements à devises multiples, PrestaShop a négocié avec <a href="http://addons.prestashop.com/fr/modules-paiement-prestashop/4154-authorizenet-aim.html" target="_blank">Authorize.Net</a> afin de vous faire profiter des avantages suivants :</p>
+<ol>
+<ul>
+<li>Support client gratuit</li>
+<li>Installation et configuration simple</li>
+<li>Les services supplémentaires :
+<ol>
+<ul>
+<li>Facturation récurrente automatique</li>
+<li>Système anti-fraude performant</li>
+<li>Pas d&#8217;engagement</li>
+</ul>
+</ol>
+</li>
+</ul>
+</ol>
+<div>
+<hr align="left" size="2" width="20%" />
+</div>
+<p>Vous n&#8217;êtes pas encore marchand PrestaShop? Qu&#8217;attendez-vous? <a href="http://www.prestashop.com/fr/telechargement" target="_blank">Téléchargez</a> notre logiciel e-commerce pour toucher vos clients internationaux en tenant compte de leurs préférences et de leur devise locale.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.prestashop.com/blog/fr/acceptez-les-paiements-dans-la-devise-de-vos-clients/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>7 stratégies à mettre en place lorsque le trafic de votre boutique en ligne baisse</title>
+		<link>http://www.prestashop.com/blog/fr/7-strategies-a-mettre-en-place-lorsque-le-trafic-de-votre-boutique-en-ligne-baisse/</link>
+		<comments>http://www.prestashop.com/blog/fr/7-strategies-a-mettre-en-place-lorsque-le-trafic-de-votre-boutique-en-ligne-baisse/#comments</comments>
+		<pubDate>Wed, 28 May 2014 14:52:20 +0000</pubDate>
+		<dc:creator>Camille Sila</dc:creator>
+				<category><![CDATA[Conseils E-commerce]]></category>
+
+		<guid isPermaLink="false">http://www.prestashop.com/blog/fr/?p=16290</guid>
+		<description><![CDATA[Tout allait pour le mieux dans le meilleur des mondes lorsque soudainement c’est la dégringolade, vos courbes de trafic sont en chute libre et ce sont vos rêves de succès qui s’écroulent. Où sont passés vos visiteurs? Que faire pour &#8230; <a href="http://www.prestashop.com/blog/fr/7-strategies-a-mettre-en-place-lorsque-le-trafic-de-votre-boutique-en-ligne-baisse/" rel="nofollow" class="more-link">Suivant <span class="meta-nav">&#8594;</span></a>]]></description>
+			<content:encoded><![CDATA[<p>Tout allait pour le mieux dans le meilleur des mondes lorsque soudainement c’est la dégringolade, vos courbes de trafic sont en chute libre et ce sont vos rêves de succès qui s’écroulent. <strong>Où sont passés vos visiteurs? Que faire pour les récupérer ?</strong></p>
+<p>Ne cédez pas à la panique et prenez plutôt le problème à bras le corps. Aujourd’hui nous vous dévoilons 7 stratégies à mettre en place pour redresser la barre. Avant toute chose il convient de<strong> comprendre la baisse, alors jetez un œil aux précieuses données que vous procure Google Analytics.</strong>  Le pourcentage de nouveaux visiteurs, le taux de rebond et les sources de trafic vous aideront à déployer la stratégie la plus adaptée à votre situation.</p>
+<p><img class="aligncenter size-full wp-image-16338" src="http://www.prestashop.com/blog/fr/files/2014/05/fr-7strategies.jpg" alt="" width="580" height="250" /></p>
+<p><span id="more-16290"></span></p>
+<h4><span style="color: #f30b76;"><strong>1. Améliorez votre SEO</strong></span></h4>
+<p>Si vous constatez une <strong>baisse soudaine de votre trafic organique il se peut que vous ayez été pénalisé par Google</strong>.  Blacklistage, chute de positionnement sur une requête particulière ou déclassement général, Google inflige des pénalités aux sites ayant recours à <a href="http://www.referenceur.be/25-trucs-pour-pas-faire-penaliser-google-12554.html" target="_blank">des techniques SEO douteuses</a>. Après avoir procédé aux rectifications nécessaires vous pouvez demander le <a href="https://support.google.com/webmasters/answer/35843" target="_blank">réexamen de votre boutique à Google</a>. Notez  qu’une <strong>chute de votre trafic organique n’est pas nécessairement due à une pénalité de Google</strong>. D’autres facteurs comme la <strong>concurrence croissante et la mise à jour des algorithmes de classement </strong>jouent également sur votre positionnement dans les moteurs de recherche.</p>
+<h4><span style="color: #f30b76;"><strong>2 Attirez du trafic depuis vos réseaux sociaux</strong></span></h4>
+<p>Les réseaux sociaux sont d’excellents vecteurs de trafic s&#8217;ils sont exploités convenablement. Ainsi, pour attirer des visiteurs vous pouvez insérer sur vos pages fans des<strong> liens vers des pages de votre boutique</strong> (fiche produit, événement, catégorie…). Veillez toutefois à <strong>ne pas produire de publications trop commerciales mais plutôt tournées vers vos clients pour favoriser le clic</strong>. Pensez également à <strong>adapter votre publication selon la typologie du réseau social dans lequel vous évoluez</strong>. Sur Linkedin il est plus judicieux de proposer un lien vers une offre d’emploi,  alors que vous préférerez établir un lien vers votre fiche produit sur Pinterest.</p>
+<p>Un exemple avec la boutique byMaud qui attise la curiosité en donnant un aperçu de sa nouvelle collection avec un lien vers leur page catégorie &#8220;La chambre&#8221;.</p>
+<p style="text-align: center;"><a href="http://www.pinterest.com/pin/189221621816292592/" target="_blank"><img class="aligncenter  wp-image-16304" title="bymaud" src="http://www.prestashop.com/blog/fr/files/2014/05/bymaud.png" alt="" width="488" height="370" /></a></p>
+<h4><span style="color: #f30b76;"><strong>3 Tirez profit du content marketing</strong></span></h4>
+<p>Avez-vous un blog ? Si non, vous devriez considérer la question.  Le content marketing est une stratégie sur le long terme, chronophage certes, mais  tellement efficace pour générer du trafic vers votre site de vente en ligne, mais  faut-il encore que votre blog  <a href="http://www.prestashop.com/blog/fr/content-marketing/" target="_blank">soit optimisé pour le content marketing</a>. Petit aperçu de la manière dont votre blog peut attirer des visiteurs sur votre site : <img class="aligncenter size-full wp-image-16291" src="http://www.prestashop.com/blog/fr/files/2014/05/content.png" alt="" width="560" height="250" /> Produisez un contenu de<strong> qualité, relayez-le ensuite sur vos réseaux sociaux et optimisez le SEO pour être visible dans les moteurs de recherche</strong>. Des visiteurs atterriront sur votre article et vous pourrez les rediriger avec des liens pertinents vers votre site.</p>
+<h4><span style="color: #f30b76;"><strong>4 Faites des relations blogueurs</strong></span></h4>
+<p>Faites parler de vous ! Votre marque peut potentiellement intéresser des blogueurs qui se feront un plaisir de tester vos produits et d’en parler sur leur site en ajoutant bien évidement un lien vers la fiche produit. En repérant des b<strong>logs dans votre thématique vous attirerez sur votre site un trafic qualifié</strong> et si en plus vous offrez une réduction spéciale pour les lecteurs du blog vous convertirez davantage. Plusieurs indices laissent transparaître l’influence des blogueurs et peuvent ainsi vous aiguiller dans votre choix comme le<strong> nombre de commentaires et leur tonalité, la taille de la communauté et l’engagement des fans</strong>…</p>
+<h4><span style="color: #f30b76;"><strong>5 Partagez vos connaissances</strong></span></h4>
+<p>Imaginez les questions que peuvent se poser votre cible et recherchez ensuite ces clients sur les forums ou commentez les blogs. En apportant des éléments de réponse <strong>vous vous placerez en tant qu’expert et donnerez potentiellement envie aux internautes d’en savoir plus sur vous</strong>. Prenez garde à donner une réponse qui apporte une véritable valeur ajoutée et surtout à ne pas être trop commercial pour éviter d’être considéré comme du <a href="http://www.zetravelerz.com/2013/03/le-spamco-a-gogo-cest-pas-toujours-jojo/" target="_blank">SpamCo</a>.</p>
+<p>Ici notre Community Manager apporte une réponse à une question directement en lien avec PrestaShop : &#8220;Quelle est la meilleure solution e-commerce pour les petits marchands?&#8221;</p>
+<p style="text-align: center;"><a href="http://www.prestashop.com/blog/fr/files/2014/05/xav-quora.png"><img class="aligncenter  wp-image-16297" src="http://www.prestashop.com/blog/fr/files/2014/05/xav-quora.png" alt="" width="478" height="507" /></a></p>
+<p>&nbsp;</p>
+<h4><span style="color: #f30b76;"><strong>6 Initiez une campagne publicitaire</strong></span></h4>
+<p>Pour générer rapidement un trafic qualifié vous pouvez lancer une campagne de liens sponsorisés avec Google Adwords par exemple. Ces types de campagnes ont pour <strong>avantage de reposer sur un paiement à la performance</strong>, vous payez au clic (CPC), le prix du clic étant établi via un système d’enchères. Commencez par déterminer un budget, puis faites une liste de mots-clés susceptibles d’être recherchés par votre cible pour enfin rédiger votre annonce. Soyez pertinent, <strong>donnez envie de cliquer et soignez la landing page pour correspondre aux attentes des consommateurs</strong>.</p>
+<h4><span style="color: #f30b76;"><strong>7 Mettez à jour votre boutique</strong></span></h4>
+<p>Mettez à jour votre boutique en ligne pour améliorer l’expérience utilisateur, réduire votre taux de rebond et fidéliser votre clientèle. Commencez par analyser votre site avec <a href="https://developers.google.com/speed/pagespeed/insights/" target="_blank">Google PageSpeed Insights</a> et découvrez les différents points qui méritent d&#8217;être améliorés. Pensez également à mettre à jour votre hébergement pour augmenter la rapidité de vos pages.</p>
+<p style="text-align: center;"><img class="aligncenter  wp-image-16320" title="google" src="http://www.prestashop.com/blog/fr/files/2014/05/google.png" alt="" width="563" height="314" /></p>
+<p>Votre site a-t-il déjà enregistré une chute de trafic importante? <strong>Dites-nous quelles stratégies ont le mieux fonctionné</strong> pour rebooster vos visites.</p>
+<p>&#8211;</p>
+<p>Vous souhaitez lancer votre boutique en ligne ? <a href="http://www.prestashop.com/fr/download" target="_blank">Téléchargez</a> gratuitement PrestaShop !</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.prestashop.com/blog/fr/7-strategies-a-mettre-en-place-lorsque-le-trafic-de-votre-boutique-en-ligne-baisse/feed/</wfw:commentRss>
+		<slash:comments>15</slash:comments>
+		</item>
+		<item>
+		<title>E-commerce : Le must des méthodes de paiement en Europe</title>
+		<link>http://www.prestashop.com/blog/fr/e-commerce-le-must-des-methodes-de-paiement-en-europe/</link>
+		<comments>http://www.prestashop.com/blog/fr/e-commerce-le-must-des-methodes-de-paiement-en-europe/#comments</comments>
+		<pubDate>Tue, 20 May 2014 10:23:51 +0000</pubDate>
+		<dc:creator>Camille Sila</dc:creator>
+				<category><![CDATA[Partenaires PrestaShop]]></category>
+
+		<guid isPermaLink="false">http://www.prestashop.com/blog/fr/?p=16235</guid>
+		<description><![CDATA[Votre activité se développe et vous êtes enfin en mesure d’explorer les possibilités d’expansion au-delà des frontières. Des moments passionnants se profilent pour ceux qui sauront gérer leur internationalisation. Alors, comment préparer votre boutique en ligne pour vendre à l’international ? &#8230; <a href="http://www.prestashop.com/blog/fr/e-commerce-le-must-des-methodes-de-paiement-en-europe/" rel="nofollow" class="more-link">Suivant <span class="meta-nav">&#8594;</span></a>]]></description>
+			<content:encoded><![CDATA[<p>Votre activité se développe et vous êtes enfin en mesure d’explorer les possibilités d’expansion au-delà des frontières. Des moments passionnants se profilent pour ceux qui sauront gérer leur internationalisation.</p>
+<p>Alors, comment préparer votre boutique en ligne pour vendre à l’international ? Quels sont les éléments clés à intégrer immédiatement sur votre site ?</p>
+<p><img class="alignnone size-full wp-image-17319" src="http://www.prestashop.com/blog/en/files/2014/05/handsglobere.jpg" alt="" width="500" height="277" /></p>
+<p><span id="more-16235"></span></p>
+<p>La vente en ligne efface les frontières à l’image de ces nouveaux profils de cyberacheteurs prêts à commander partout dans le monde. Ces acheteurs internationaux représentent une grande opportunité pour les boutiques en ligne, d&#8217;autant plus que les ventes e-commerce mondiales sont amenées à se développer, selon les études récentes de <a href="http://www.emarketer.com/Article/Global-B2C-Ecommerce-Sales-Hit-15-Trillion-This-Year-Driven-by-Growth-Emerging-Markets/1010575" target="_blank">eMarketer.com</a>.</p>
+<p style="text-align: center;"><img class="size-full wp-image-17311 aligncenter" src="http://www.prestashop.com/blog/en/files/2014/05/Emarketer.167671_re.jpg" alt="" width="300" height="292" /></p>
+<p>Internet a indéniablement ouvert la voie à la mondialisation et à l&#8217;exposition internationale, permettant aux entreprises d&#8217;atteindre un public beaucoup plus large. Aujourd&#8217;hui il est indispensable de «Penser global, Agir local».</p>
+<h4><span style="color: #99cc00;"><strong>Localisation</strong></span></h4>
+<p>La localisation est un élément indispensable pour réussir une stratégie d’internationalisation, c’est elle qui permettra de convertir les visiteurs étrangers.</p>
+<p>Voici trois points clés de la localisation :</p>
+<p><strong>1-Traduire votre site dans la langue du pays ciblé</strong></p>
+<p>Des études récentes montrent que les consommateurs sont plus enclins à acheter un produit s’ils peuvent passer commande dans leur langue maternelle.  Ainsi, <a href="http://www.kwintessential.co.uk/read-our-blog/localization-important-for-successful-global-ecommerce.html" target="_blank">Kwintessential</a> montre que 55 % des sondés affirment préférer acheter un produit dans un site affichant un contenu dans leur propre langue.</p>
+<p><strong>2-Afficher les prix dans la devise locale</strong></p>
+<p>Épargnez à vos clients la conversion des prix  et facilitez ainsi leurs achats.</p>
+<p><strong>3- Proposer des moyens de paiement locaux</strong></p>
+<p><strong></strong>C’est un élément essentiel pour convertir vos clients. En fournissant le moyen de paiement local préféré, vous éviterez de perdre des ventes au profit de vos concurrents.</p>
+<h4><span style="color: #99cc00;"><strong>Quels sont les moyens de paiement les plus plébiscités en Europe?</strong></span></h4>
+<p><strong></strong>Le choix du mode de paiement varie d’un pays à l’autre et est fortement lié à la disponibilité de services financiers locaux. Le tableau ci-dessous offre un aperçu des options de paiement préférées en Europe selon une étude menée par Innopay &#8211; <em>“Online Payments 2012.  Moving beyond the web</em>”.<br />
+<img class="alignleft  wp-image-16237" src="http://www.prestashop.com/blog/fr/files/2014/05/tab.png" alt="" width="651" height="206" /></p>
+<h4><span style="color: #99cc00;"><strong>HiPay Wallet: des solutions de paiement adaptées à chaque pays</strong></span></h4>
+<p>HiPay Wallet est la seule solution en Europe qui fournit des solutions de paiement alternatives propres à chaque pays, en plus d’une offre de carte bancaire classique.</p>
+<p style="text-align: center;"><img class="aligncenter" src="https://lh4.googleusercontent.com/Xo5XG4JGyLPR1kq0fCdsbRkLUALIbgCsegXdc03eoaV5f2RV2dAY3rHrf6pw2x981BFH_6zzwbPwwOzEmj80788ZgjlBThuAqcU7taLC-cyEQQX-XPkg86oXzFANuxyK6w" alt="" width="195px;" height="113px;" /></p>
+<p>HiPay négocie constamment avec les banques pour être en mesure d&#8217;offrir toutes les solutions de paiement qui sont aujourd’hui utilisées à travers toute l&#8217;Europe.</p>
+<p>Désormais, vos clients peuvent acheter plus facilement en payant avec leurs moyens de paiement préférés: virements bancaires, paiements en espèces, virements bancaires préautorisés, cartes de crédit et de débit.</p>
+<p>Ci-dessous, découvrez un aperçu de quelques-unes des solutions proposées par HiPay Wallet :</p>
+<p style="text-align: center;"><a href="https://lh5.googleusercontent.com/pmSMlDH_l8TN-e4cKnfw8y-x51FKFyGkCFLCOBHvlv1_p4HYNosRgjGlHs5sk_qcCFAbaABIEVUgN6ZZTRreh9Npbm6sjIC2ydd28bNQN6muGCupimEjBeJVCV2-wwOBQA" target="_blank"><img class="aligncenter" src="https://lh5.googleusercontent.com/pmSMlDH_l8TN-e4cKnfw8y-x51FKFyGkCFLCOBHvlv1_p4HYNosRgjGlHs5sk_qcCFAbaABIEVUgN6ZZTRreh9Npbm6sjIC2ydd28bNQN6muGCupimEjBeJVCV2-wwOBQA" alt="" width="426px;" height="332px;" /></a></p>
+<p>Le module Hipay est disponible dans les pays suivants : France, Belgique, Suisse, Angleterre, Espagne, Italie, Pays-Bas, Allemagne, Portugal, Norvège, Pologne, Roumanie et République Tchèque.</p>
+<p>Téléchargez gratuitement le <a href="http://addons.prestashop.com/fr/modules-paiement-prestashop/1746-hipay.html" target="_blank">module Hipay</a> sur la marketplace officielle de PrestaShop.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.prestashop.com/blog/fr/e-commerce-le-must-des-methodes-de-paiement-en-europe/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		</item>
+		<item>
+		<title>Comment bien choisir le logo de votre site e-commerce</title>
+		<link>http://www.prestashop.com/blog/fr/comment-bien-choisir-le-logo-de-votre-site-e-commerce/</link>
+		<comments>http://www.prestashop.com/blog/fr/comment-bien-choisir-le-logo-de-votre-site-e-commerce/#comments</comments>
+		<pubDate>Thu, 15 May 2014 08:24:54 +0000</pubDate>
+		<dc:creator>Camille Sila</dc:creator>
+				<category><![CDATA[Conseils E-commerce]]></category>
+
+		<guid isPermaLink="false">http://www.prestashop.com/blog/fr/?p=16202</guid>
+		<description><![CDATA[L’une des décisions les plus importantes et certainement parmi les plus difficiles pour les créateurs d’entreprises est le choix d’un logo. Marchands e-commerce, c’est une étape cruciale dans la création de votre identité de marque et votre premier pas vers &#8230; <a href="http://www.prestashop.com/blog/fr/comment-bien-choisir-le-logo-de-votre-site-e-commerce/" rel="nofollow" class="more-link">Suivant <span class="meta-nav">&#8594;</span></a>]]></description>
+			<content:encoded><![CDATA[<p>L’une des décisions les plus importantes et certainement parmi les plus difficiles pour les créateurs d’entreprises est le choix d’un logo. Marchands e-commerce, c’est une étape cruciale dans la création de votre i<strong>dentité de marque et votre premier pas vers une stratégie marketing efficace</strong>. Le logo est votre signature, il v<strong>éhicule votre image, vos valeurs, vous démarque de vos concurrents et doit être travaillé en conséquence</strong>. Le choix du logo ne doit pas être pris à la légère car il sera le fil conducteur de toutes vos créations graphiques.</p>
+<p>Aujourd’hui nous vous aidons à choisir le logo de votre boutique en ligne. Vous trouverez dans cet article d<strong>es bonnes pratiques, des exemples et des ressources pour trouver le logo parfait</strong> !</p>
+<p>Petit tour d’horizon de ce qu’il faut savoir.</p>
+<p><img class="aligncenter size-full wp-image-16204" src="http://www.prestashop.com/blog/fr/files/2014/05/FR_ECOMMERCE-DESIGN.jpg" alt="" width="580" height="250" /></p>
+<p><span id="more-16202"></span></p>
+<h2><span style="color: #008080;">Les éléments qui caractérisent un logo réussi</span></h2>
+<h4>1) Simple et Clair</h4>
+<p>Votre logo doit être identifiable en un clin d’œil et le message qu’il véhicule, directement compréhensible par vos clients. La simplicité passe par une police lisible, alors soyez original mais pas au détriment de la compréhension de votre logo. Pour être sûr de votre choix, montrez votre logo pendant 10 secondes à des personnes qui ne connaissent pas votre marque. Comprennent-elles votre marque et son message ? Si la réponse est non il faudrait songer à simplifier le design.</p>
+<h4>2) Mémorisable et Unique</h4>
+<p>Votre marque est unique et cela doit se voir ! Différenciez votre logo de ceux de vos concurrents pour faciliter l’identification de votre société par les consommateurs. En étant ainsi reconnaissable, votre logo sortira du lot et sera plus mémorisable.</p>
+<h4>3) Approprié</h4>
+<p>Votre logo doit représenter fidèlement votre marque mais doit aussi être parfaitement adapté à votre cible. Si vous vendez des jouets pour enfants préférez utiliser des polices et couleurs enfantines. L’important c’est que votre cible puisse s’identifier à votre marque.</p>
+<h4>4) Intemporel</h4>
+<p>L’une des bonnes pratiques lors de la création d’un logo est de ne pas se reposer sur les tendances actuelles. Et pour cause, avoir un logo qui dure dans le temps signifie que vous n’aurez pas à entreprendre de coûteuses refontes tous les 3 ans mais qu’un simple rafraîchissement du design fera l’affaire.</p>
+<h4>5) La bonne couleur</h4>
+<p>Nous associons naturellement les couleurs à des idées et à des émotions. En choisissant une couleur adaptée vous transmettrez plus facilement votre message. Voici les significations des couleurs dans les cultures occidentales selon <a href="https://99designs.fr/launch/logo-design/b18a9c297f292d9d/brief" target="_blank">99Designs</a> :</p>
+<p><span style="color: #ffffff;">.</span> <span style="color: #ff0000;"><strong>Rouge :</strong></span> Passion, Colère, Vigueur, Amour, Danger<br />
+<span style="color: #ffffff;">.</span> <span style="color: #ff9900;"><strong>Orange :</strong></span> Créativité, Unique, Stimulation, Vitalité, Espiègle<br />
+<span style="color: #ffffff;">.</span> <span style="color: #e4c547;"><strong>Jaune :</strong></span> Connaissance, Energie, Joie, Jeunesse<br />
+<span style="color: #ffffff;">.</span> <span style="color: #339966;"><strong>Vert :</strong></span> Fertilité, Richesse, Sérénité, Succès, Santé<br />
+<span style="color: #ffffff;">.</span> <span style="color: #0000ff;"><strong>Bleu :</strong></span> Confiance, Tranquillité, Calme, Sécurité<br />
+<span style="color: #ffffff;">.</span> <span style="color: #993399;"><strong>Violet :</strong></span> Royauté, Sagesse, Spiritualité, Imagination<br />
+<span style="color: #ffffff;">.</span> <span style="color: #ffffff; background-color: #000000;"><strong>Blanc :</strong></span> Pureté, Perfection, Propreté, Vertu, Noblesse, Douceur<br />
+<span style="color: #ffffff;">.</span> <span style="color: #999999;"><strong>Gris :</strong></span> Sophistiqué, Neutralité<br />
+<span style="color: #ffffff;">.</span> <span style="color: #000000;"><strong>Noir :</strong></span>Peur, Formel, Prestige, Sophistiqué</p>
+<p>Toutefois, ne comptez pas seulement sur des effets de couleurs, veillez à ce que votre logo fonctionne aussi en noir et blanc.</p>
+<h2><span style="color: #008080;">Parlons spécificités techniques</span></h2>
+<p><span style="color: #ffffff;">.</span> • <span style="color: #000000;"><strong>Utilisez un format vectoriel.</strong></span> Ce type de format est créé avec des équations mathématiques qui permettent de redimensionner le logo sans le pixeliser. Qu’importe sa taille, votre logo gardera la même qualité.</p>
+<p><span style="color: #ffffff;">.</span> • <span style="color: #000000;"><strong>Créez des versions pour chaque support.</strong></span> Web, véhicules, en-tête, cartes de visite, affiches publicitaires… Vous allez utiliser votre logo sur de nombreux supports, alors vérifiez que vous disposez d’une version qui fonctionne pour chacun d’entre eux.</p>
+<h2><span style="color: #008080;">Exemples de logos de boutiques PrestaShop</span></h2>
+<h4><a href="http://www.yumise.com/american-gourmandises" target="_blank"><strong>Yumise</strong></a><br />
+<img class="aligncenter size-full wp-image-17247" src="http://www.prestashop.com/blog/en/files/2014/05/Yumise-Logo.jpg" alt="" width="293" height="168" /></h4>
+<p><strong>Yumise commercialise des gourmandises américaines.</strong><br />
+<strong>Les plus :</strong></p>
+<ul>
+<li>Logo simple au design intemporel</li>
+<li>Une police appropriée à la cible des gourmands</li>
+<li>Police originale qui reste néanmoins lisible</li>
+<li>Signature qui clarifie l’activité de la société</li>
+</ul>
+<h4><strong><a href="http://printthemall.com/" target="_blank">Print Them All</a></strong></h4>
+<p><img class="aligncenter size-full wp-image-17242" src="http://www.prestashop.com/blog/en/files/2014/05/printthemall-logo.png" alt="" width="152" height="176" /><br />
+<strong>Une galerie d’art en ligne qui présente des œuvres d’artistes de rue.</strong><br />
+<strong>Les plus : </strong></p>
+<ul>
+<li>La couleur grise signifiant la neutralité est pertinente pour un marchand d’art.</li>
+<li>L’utilisation moderne des stylos à plume revisités en couronne met en avant le côté rebelle de la marque.</li>
+<li>Logo différenciateur dans le secteur de l’art.</li>
+</ul>
+<h4><a href="http://www.todobonito.com/" target="_blank"><strong>Todo Bonito</strong><br />
+</a></h4>
+<p style="text-align: center;"><img class="aligncenter  wp-image-17245" src="http://www.prestashop.com/blog/en/files/2014/05/todobonito1.png" alt="" width="144" height="144" /><img class="aligncenter  wp-image-17246" src="http://www.prestashop.com/blog/en/files/2014/05/todobonito2.png" alt="" width="394" height="68" /></p>
+<p><strong>Décorations pour événements à personnaliser et imprimer</strong><br />
+<strong>Les plus :</strong></p>
+<ul>
+<li>Le napperon rose et bleu rappelle les produits vendus par la marque, de jolis designs sur papier à découper.</li>
+<li>Plusieurs versions de logos pour différents supports. Le logo carré est parfait pour les réseaux sociaux tandis que le rectangulaire fonctionnera plus facilement sur le site e-commerce.</li>
+<li>Des teintes acidulées adaptées à la cible des mamans préparant les fêtes de leurs enfants.</li>
+</ul>
+<p>Pour plus d’inspiration rendez-vous sur les sites <a href="http://www.logomoose.com/" target="_blank">LogoMoose</a> ou <a href="http://www.logoorange.com/logo-design.php" target="_blank">LogoOrange</a>.</p>
+<h2><span style="color: #008080;">Des ressources utiles pour créer votre logo</span></h2>
+<p>Maintenant que vous connaissez toutes les bonnes pratiques pour choisir le logo parfait, vous vous demandez sûrement comment le créer.</p>
+<p>Pour les marchands disposant d&#8217;un petit budget, <a href="http://www.freelogoservices.com/fr" target="_blank">free logo service</a> vous permet de créer un logo facilement et gratuitement. Pour une utilisation illimitée de votre logo, il vous faudra acheter les fichiers sources pour 29,95 €.</p>
+<p>Pour les budgets plus conséquents, <a href="http://99designs.fr/" target="_blank">99 designs</a> vous propose de lancer un concours auprès de designers à partir de 229 €.</p>
+<div>
+<hr align="left" size="2" width="33%" />
+</div>
+<p>Vous avez déjà un site en ligne, aidez les futurs e-commerçants dans la création de leur logo en partageant votre expérience dans les commentaires.</p>
+<p>Vous souhaitez lancer votre boutique en ligne ? <a href="http://www.prestashop.com/fr/download" target="_blank">Téléchargez</a> gratuitement PrestaShop !</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.prestashop.com/blog/fr/comment-bien-choisir-le-logo-de-votre-site-e-commerce/feed/</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+		</item>
+		<item>
+		<title>Installer PrestaShop &#8211; Le guide complet</title>
+		<link>http://www.prestashop.com/blog/fr/installer-prestashop/</link>
+		<comments>http://www.prestashop.com/blog/fr/installer-prestashop/#comments</comments>
+		<pubDate>Wed, 14 May 2014 17:14:30 +0000</pubDate>
+		<dc:creator>Xavier du Tertre</dc:creator>
+				<category><![CDATA[Developpement / Technique]]></category>
+
+		<guid isPermaLink="false">http://www.prestashop.com/blog/fr/?p=16183</guid>
+		<description><![CDATA[Vous souhaitez installer PrestaShop et cherchez un guide avec les explications pas-à-pas ? Ne cherchez plus, cet article a été écrit pour vous. PrestaShop a été téléchargé près de 4 millions de fois et propulse aujourd&#8217;hui plus de 185 000 &#8230; <a href="http://www.prestashop.com/blog/fr/installer-prestashop/" rel="nofollow" class="more-link">Suivant <span class="meta-nav">&#8594;</span></a>]]></description>
+			<content:encoded><![CDATA[<p>Vous souhaitez installer PrestaShop et cherchez un guide avec les explications pas-à-pas ? Ne cherchez plus, cet article a été écrit pour vous. PrestaShop a été téléchargé près de 4 millions de fois et propulse aujourd&#8217;hui plus de 185 000 boutiques en ligne : les tutoriels d&#8217;installation sont donc très demandés. Heureusement, il existe de nombreuses ressources en ligne pour vous aider à installer le logiciel, quel que soit le type d&#8217;installation que vous choisirez. Vous pouvez choisir d&#8217;installer PrestaShop via un script d&#8217;installation en un clic proposé par votre hébergeur, manuellement via MySQL et un serveur FTP, ou enfin dans un environnement local à des fins de test ou de développement. Cet article vous accompagne dans votre démarche, pour ces trois scénarios possibles !</p>
+<p><a href="http://www.prestashop.com/blog/fr/files/2014/05/prestashop-1.6-604x272-1.png"><img class="aligncenter size-full wp-image-16184" title="installer prestashop" src="http://www.prestashop.com/blog/fr/files/2014/05/prestashop-1.6-604x272-1.png" alt="" width="604" height="272" /></a></p>
+<p><span id="more-16183"></span><br />
+Avant de commencer, n&#8217;hésitez pas à ajouter la <a href="http://doc.prestashop.com/pages/viewpage.action?pageId=20840476">documentation officielle de PrestaShop</a> à vos favoris et particulièrement la section dédiée à <a href="http://doc.prestashop.com/display/PS16/Installer+PrestaShop">l&#8217;installation</a>. Ce document sera une référence pour vous, il contient les réponses à la majorité des questions que vous vous poserez.</p>
+<h4><strong><span style="color: #84b62b;">1- Installation en 1-clic</span> </strong></h4>
+<p>C&#8217;est probablement la méthode la plus simple pour installer PrestaShop, surtout si votre hébergeur a prévu son propre script d&#8217;installation en 1-clic pour PrestaShop. Si votre hébergeur ne propose pas un tel script, voici trois librairies de scripts d&#8217;installation parmi lesquels PrestaShop figure :</p>
+<ol>
+<li><a href="http://www.simplescripts.com/script_details/install:PrestaShop"><span style="text-decoration: underline;">SimpleScripts</span></a></li>
+<li><a href="http://installatron.com/prestashop"><span style="text-decoration: underline;">Installatron</span></a></li>
+<li><span style="text-decoration: underline;"><a href="http://www.softaculous.com/apps/ecommerce/PrestaShop">Softaculous</a></span></li>
+</ol>
+<p>Pour cette procédure en 1-clic, vous n&#8217;avez besoin que des détails de votre serveur FTP, détails qui sont disponibles auprès de votre hébergeur &#8211; vous avez probablement reçu vos identifiants par email.<br />
+Si vous n&#8217;avez pas encore choisi d&#8217;hébergement pour votre boutique en ligne vous pouvez <a href="http://www.prestashop.com/fr/hebergement-ecommerce" target="_blank">visiter notre site</a>, sur lequel nous avons listé l&#8217;ensemble des hébergeurs partenaires de PrestaShop, qui connaissent le logiciel et fournissent des serveurs optimisés pour un site Ecommerce performant.</p>
+<h4><strong><span style="color: #84b62b;">2- Installation manuelle de PrestaShop</span> </strong></h4>
+<p>Si vous souhaitez installer vous-même PrestaShop via votre FTP et souhaitez créer manuellement votre base de données MySQL, les explications suivantes vous guideront facilement dans votre démarche. Les étapes du processus d&#8217;installation sont listées ci-dessous, vous pouvez également les retrouver en détail ici : <a href="http://doc.prestashop.com/display/PS16/Installer+PrestaShop#InstallerPrestaShop-Instructionsd%27installationd%C3%A9taill%C3%A9es" target="_blank">Instructions d&#8217;installation détaillées</a></p>
+<ul>
+<li>Téléchargez et décompressez l&#8217;archive de PrestaShop</li>
+<li>Mettez PrestaShop en ligne en chargeant les fichiers PrestaShop sur votre serveur via un client FTP.</li>
+<li>Créez une base de données pour votre boutique</li>
+<li>Lancez l&#8217;installeur automatique en entrant l&#8217;URL publique que vous avez choisie pour votre boutique en ligne.</li>
+<li>Suivez les instructions de l&#8217;installeur automatique</li>
+<li>Supprimez le dossier /install de votre serveur et notez le nom de votre dossier /admin</li>
+</ul>
+<p>Pour illustrer l&#8217;installation de PrestaShop, nous avons également réalisé un tutoriel video. Astuce : sous-titrez la video en français en cliquant sur le bouton &#8220;Captions&#8221; !</p>
+<p><iframe src="//www.youtube.com/embed/psz4aIPZZuk" frameborder="0" width="560" height="315"></iframe></p>
+<h4><strong><span style="color: #84b62b;">3- Installation locale de PrestaShop</span> </strong></h4>
+<p>En installant PrestaShop dans un environnement local, votre boutique n&#8217;est accessible que depuis votre ordinateur ou serveur local. C&#8217;est très utile pour tester les changements que opérés sur votre boutique, faire des essais de mise à jour ou d&#8217;installation de nouveaux modules sur un clone local de votre boutique, et ce sans toucher à votre boutique en ligne.</p>
+<p>La documentation officielle de PrestaShop explique le principe <a href="http://doc.prestashop.com/display/PS16/Installer+PrestaShop+sur+votre+propre+ordinateur" target="_blank">de façon détaillée</a></p>
+<p>Installer n&#8217;importe quelle application web localement requiert l&#8217;installation préalable d&#8217;un environnement adéquat, connu sous l&#8217;acronyme AMP : Apache+MySQL+PHP. Il existe différents packs AMP, selon votre système d&#8217;exploitation.</p>
+<ol>
+<li><a href="http://www.wampserver.com/en/">WAMP</a> (Windows)</li>
+<li><a href="http://www.apachefriends.org/en/xampp.html">XAMPP</a> (Windows, Mac OSX, Linux, Solaris)</li>
+<li><a href="http://www.easyphp.org/">MAMP</a> (Mac OS X)</li>
+</ol>
+<p>Mais le plus simple, pour une installation locale de PrestaShop, reste l&#8217;utilisation d&#8217;un pack préconstruit très facile à installer (l&#8217;environnement AMP est installé pour vous), parmi lesquels figurent les excellents :</p>
+<ol>
+<li><a href="http://www.easyphp.org/prestashop.php">EasyPHP</a> (Windows) -</li>
+<li><a href="https://bitnami.com/stack/prestashop">BitNami</a> (Windows, Mac OSX, Linux) -</li>
+</ol>
+<h4><span style="color: #84b62b;">En conclusion</span></h4>
+<p>Quel que soit votre niveau en informatique, et même si vous n&#8217;avez pas de connaissance en développement ou serveurs web, vous trouverez parmi ces trois types d&#8217;installation celle qui correspond à vos besoins. Si vous avez des questions, nous vous invitons à les partager avec la Communauté sur le <a href="http://www.prestashop.com/forums/forum/118-installation-de-prestashop/" target="_blank">forum dédié à l&#8217;installation de PrestaShop</a>. Si vous rencontrez un blocage, il est très probable qu&#8217;il s&#8217;agisse d&#8217;un problème de permissions du côté de votre serveur, c&#8217;est pour cette raison que nous recommandons fortement l&#8217;utilisation d&#8217;un hébergeur partenaire de PrestaShop.</p>
+<p>L&#8217;installation de PrestaShop est le premier pas vers la transformation de votre idée Ecommerce en un grand succès en ligne. Qu&#8217;attendez-vous ? <img src='http://www.prestashop.com/blog/fr/wp-includes/images/smilies/icon_wink.gif' alt=';)' class='wp-smiley' /> </p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.prestashop.com/blog/fr/installer-prestashop/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>PrestaShop World Tour : Direction le Pérou avec l’agence Wataweb !</title>
+		<link>http://www.prestashop.com/blog/fr/prestashop-world-tour-direction-le-perou-avec-lagence-wataweb/</link>
+		<comments>http://www.prestashop.com/blog/fr/prestashop-world-tour-direction-le-perou-avec-lagence-wataweb/#comments</comments>
+		<pubDate>Wed, 14 May 2014 15:02:10 +0000</pubDate>
+		<dc:creator>Quentin Audrain</dc:creator>
+				<category><![CDATA[PrestaShop World Tour]]></category>
+
+		<guid isPermaLink="false">http://www.prestashop.com/blog/fr/?p=16166</guid>
+		<description><![CDATA[L’e-commerce au Pérou n’est semblable à aucun des marchés e-commerce vus auparavant. Si le marché e-commerce péruvien en est encore à ses balbutiements il doit aussi se battre pour changer les habitudes des consommateurs. Pour en savoir un peu plus &#8230; <a href="http://www.prestashop.com/blog/fr/prestashop-world-tour-direction-le-perou-avec-lagence-wataweb/" rel="nofollow" class="more-link">Suivant <span class="meta-nav">&#8594;</span></a>]]></description>
+			<content:encoded><![CDATA[<p>L’e-commerce au Pérou n’est semblable à aucun des marchés e-commerce vus auparavant. Si le marché e-commerce péruvien en est encore à ses balbutiements il doit aussi se battre pour changer les habitudes des consommateurs. Pour en savoir un peu plus sur l’e-commerce au Pérou, nous avons rencontré <a href="http://www.wataweb.com/" target="_blank">Wataweb</a>, une agence web locale.</p>
+<p style="text-align: center;"><img class="aligncenter size-full wp-image-17185" src="http://www.prestashop.com/blog/en/files/2014/05/PSWT-Lima-Main.jpg" alt="" width="560" height="375" /><span id="more-16166"></span></p>
+<p>Alors, pourquoi le Pérou est-il si unique ?</p>
+<p>Tout d’abord, le <strong>comportement des consommateurs n’est pas en phase avec les pratiques e-commerce</strong>. Les acheteurs utilisent davantage du cash et ceux qui possèdent une carte de crédit sont réticents quant à laisser leurs coordonnées bancaires sur internet. De plus, les péruviens préfèrent payer à réception de la marchandise.</p>
+<p><strong>Les banques sont également frileuses lorsqu’il s’agit d’ouvrir des comptes bancaires aux marchands</strong>. Le nombre limité d’e-commerçants porte ainsi préjudice à la croissance du e-commerce local. Toutefois, PayPal change la donne en s’associant avec des banques locales pour les aider à ouvrir des comptes aux marchands.</p>
+<p><img class="aligncenter size-full wp-image-17184" src="http://www.prestashop.com/blog/en/files/2014/05/PSWT-Lima2.jpg" alt="" width="560" height="377" /></p>
+<p>Le Pérou fait malgré tout de grands efforts pour booster son marché e-commerce. Nous avons rencontré Javier, Daniel et Dionisio de l’agence Watabeb pour en savoir un peu plus sur l’e-commerce au Pérou.</p>
+<p>Regardez la vidéo !</p>
+<p><iframe src="//player.vimeo.com/video/95289493" frameborder="0" width="500" height="281"></iframe></p>
+<p><a href="http://vimeo.com/95289493">PrestaShop World Tour: We&#8217;re in Lima, Peru with Wataweb</a> from <a href="http://vimeo.com/prestashop">PrestaShop</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<p>Prochaine Escale : <span style="color: #008000;"><strong>L’Amérique du Nord</strong></span></p>
+<p>Envie de voir votre ville ou votre boutique PrestaShop dans le prochain épisode ? Laissez-nous un commentaire ou faites-le nous savoir sur <a href="https://twitter.com/prestashop" target="_blank">Twitter</a>avec le hashtag <span style="color: #008000;"><strong>#PSWorldTour</strong></span> !</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.prestashop.com/blog/fr/prestashop-world-tour-direction-le-perou-avec-lagence-wataweb/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+Minified using disk: basic
+Page Caching using disk: enhanced
+
+Served from: www.prestashop.com @ 2014-06-30 07:56:02 -->
